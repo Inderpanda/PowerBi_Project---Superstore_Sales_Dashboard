@@ -1,4 +1,10 @@
 # Superstore_Sales_Dashboard
+![Screenshot (662)](https://github.com/Inderpanda/Superstore_Sales_Dashboard/assets/138003751/5647fbc5-05a8-4399-bbcd-88a83e60da6e)
+![Screenshot (663)](https://github.com/Inderpanda/Superstore_Sales_Dashboard/assets/138003751/3370fd45-e17d-490f-94c9-4285674ddaa6)
+
+
+# Video Link
+https://www.linkedin.com/in/inderpanda21/recent-activity/all/
 
 # 🎯𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
 To contribute to the success of a business by utilising data analysis techniques specifically focusing on time series analysis to provide valuable insights and accurate sales forecasting
